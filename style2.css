@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Courier';
+    src: url('fonts/Courier.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Courier-Bold';
+    src: url('fonts/Courier-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Courier-Oblique';
+    src: url('fonts/Courier-Oblique.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url('fonts/Helvetica.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Helvetica-Bold';
+    src: url('fonts/Helvetica-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Helvetica-Oblique';
+    src: url('fonts/Helvetica-Oblique.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Times-Roman';
+    src: url('fonts/Times-Roman.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Times-Bold';
+    src: url('fonts/Times-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Times-Italic';
+    src: url('fonts/Times-Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'sans-serif';
+    src: url('fonts/Sans-Serif.woff') format('woff');
+}
